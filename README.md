@@ -2,7 +2,7 @@
  Teste prático Koode
  
 ## Como rodar?
-### Faça o download ou 'push' e com o terminal no diretório do projeto, rode o comendo abaixo para instalar todas as dependências (isso considerando que tenha o composer instalado na sua máquina)
+### Faça o download ou 'push' e com o terminal no diretório do projeto, rode o comando abaixo para instalar todas as dependências (isso considerando que tenha o composer instalado na sua máquina)
 ```
 composer install
 ```
